@@ -1,0 +1,71 @@
+{
+  "timestamp": "2026-10-16T17:23:44.980Z",
+  "export": "dist/",
+  "subpath": "/preview/",
+  "results": [
+    {
+      "name": "Chromium: export, metadata, local font and initial ranking",
+      "passed": true
+    },
+    {
+      "name": "Chromium: all dates, load more and exact ranking",
+      "passed": true
+    },
+    {
+      "name": "Chromium: author and keyword search, no results, reset",
+      "passed": true
+    },
+    {
+      "name": "Chromium: topic, date and sort controls",
+      "passed": true
+    },
+    {
+      "name": "Chromium: expand and collapse the complete original post",
+      "passed": true
+    },
+    {
+      "name": "Chromium: save, persist, saved navigation, remove and empty recovery",
+      "passed": true
+    },
+    {
+      "name": "Chromium: original links and copy-link failure recovery",
+      "passed": true
+    },
+    {
+      "name": "Chromium: successful copy feedback",
+      "passed": true
+    },
+    {
+      "name": "Chromium: about dialog, keyboard dismissal and focus return",
+      "passed": true
+    },
+    {
+      "name": "Chromium: keyboard skip link and visible focus",
+      "passed": true
+    },
+    {
+      "name": "Chromium: responsive reflow and first screen at 390",
+      "passed": true
+    },
+    {
+      "name": "Chromium: 200% text enlargement and reduced motion",
+      "passed": true
+    },
+    {
+      "name": "Chromium: accessibility scan, feed and dialog",
+      "passed": true
+    },
+    {
+      "name": "Chromium: unavailable and corrupt browser storage",
+      "passed": true
+    },
+    {
+      "name": "Chromium: no runtime errors or external asset requests",
+      "passed": true
+    }
+  ],
+  "limitations": [
+    "WebKit could not launch: browserType.launch:  ╔══════════════════════════════════════════════════════╗ ║ Host system is missing dependencies to run browsers. ║ ║ Missing libraries:                                   ║ ║     libgstreamer-1.0.so.0                            ║"
+  ],
+  "passed": true
+}

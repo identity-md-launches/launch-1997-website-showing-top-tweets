@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 330" fill="none">
+ <defs>
+  <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#466344" opacity=".45"/></pattern>
+  <linearGradient id="skin" x1="220" y1="80" x2="340" y2="250" gradientUnits="userSpaceOnUse"><stop stop-color="#91b860"/><stop offset="1" stop-color="#4e733f"/></linearGradient>
+  <linearGradient id="gear" x1="170" y1="210" x2="370" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#2b4938"/><stop offset="1" stop-color="#172b22"/></linearGradient>
+ </defs>
+ <path fill="url(#dots)" d="M0 0h560v330H0z"/>
+ <g stroke="#335236" opacity=".65"><circle cx="315" cy="169" r="132"/><circle cx="315" cy="169" r="106" stroke-dasharray="3 8"/><path d="M315 22v20m0 255v20M168 169h20m255 0h20"/></g>
+ <ellipse cx="310" cy="312" rx="215" ry="13" fill="#070f0a" opacity=".65"/>
+ <!-- Scout: a second Pepe behind the field terminal. -->
+ <g stroke="#0c1811" stroke-width="4" stroke-linejoin="round">
+  <path d="M374 205q-12-35 1-72 1-27 26-28 30-18 57 7 38-5 49 25 13 46-21 71l-5 53-108-2z" fill="#527b45"/>
+  <path d="M383 145q3-39 31-39 22 2 25 27 8-26 32-20 21 6 20 36" fill="#6c9351"/>
+  <path d="M391 137q20-14 41 3l-2 28-39-1zM443 141q20-14 40 8l-6 23-37-4z" fill="#dddcc0"/>
+  <path d="M391 146l41 4m11 0 40 7"/>
+  <path d="M419 150v14m44-8v14" stroke-width="8"/>
+  <path d="M380 178q38-11 87 8 17 6 11 15-41 21-92-4-12-6-6-19z" fill="#ad704b"/>
+  <path d="M384 187q42 17 89 8" stroke-width="3"/>
+  <path d="M373 146q2-48 41-54 58-7 84 55" stroke="#344b37" stroke-width="13"/>
+  <rect x="485" y="144" width="17" height="33" rx="6" fill="#1e3328"/>
+  <path d="M495 170v23h-25" stroke-width="5"/>
+  <path d="M369 211q58 19 119-4l22 78H350z" fill="#203a2c"/>
+  <path d="m371 214 26 71m80-72-16 72" stroke="#40563b" stroke-width="10"/>
+ </g>
+ <!-- Field terminal. -->
+ <g stroke="#0a1710" stroke-width="4" stroke-linejoin="round">
+  <path d="m391 235 130 6-18 63-133-7z" fill="#172a20"/>
+  <path d="m402 245 105 5-11 40-105-5z" fill="#233f2b" stroke="#446248" stroke-width="2"/>
+  <path d="m412 258 9 7-12 7m23 0h34m-35-12h53" stroke="#a9d86a" stroke-width="3"/>
+  <path d="m370 297 133 7 16 7H358z" fill="#3c5140"/>
+ </g>
+ <!-- Main Pepe's jacket and utility vest. -->
+ <g stroke="#0b1710" stroke-width="5" stroke-linejoin="round" stroke-linecap="round">
+  <path d="M175 196q-47 25-52 94l27 22h201l24-30q-9-66-66-88z" fill="url(#gear)"/>
+  <path d="m181 205-25 104m148-105 31 105" stroke="#596246" stroke-width="19"/>
+  <path d="m184 232 57 14 62-13 9 77H172z" fill="#243528"/>
+  <path d="M197 263h37v43h-39zm50 1h40l3 42h-41z" fill="#3b4a33"/>
+  <path d="m200 272 32 1m18 1 33-1" stroke="#73835b" stroke-width="3"/>
+  <path d="M147 267q-12-13-18 4l-8 28q6 19 38 9l29-20-16-23z" fill="#567d44"/>
+  <!-- face silhouette -->
+  <path d="M177 96q-4-36 31-45 32-10 48 15 32-22 56 0 27 22 23 59 20 20 16 47-9 56-80 59-58 2-93-28-26-23-15-61z" fill="url(#skin)"/>
+  <path d="M183 119q-7-32 14-42 27-13 45 14l4 44-60 1z" fill="#d7ddaf"/>
+  <path d="M251 94q17-34 45-21 27 15 23 52l-66 13z" fill="#dee2bc"/>
+  <path d="M187 99q29-5 53 9m17-4q31-9 59 7" stroke="#44643a" stroke-width="13"/>
+  <path d="M223 111v20m59-17v19" stroke-width="13"/>
+  <path d="M180 136q29 9 64 0m9 2q37 6 70-8" stroke="#4c6d3c" stroke-width="3"/>
+  <path d="M174 162q55-10 119-1 43 4 45 20 2 20-62 29-56 6-96-14-22-11-6-34z" fill="#b27c4f"/>
+  <path d="M177 178q77 22 155 2" stroke-width="4"/>
+  <path d="M191 195q58 14 103 2" stroke="#ce9862" stroke-width="4"/>
+  <path d="M179 153q-12-2-12 9" stroke-width="3"/>
+  <!-- tactical headband and headset -->
+  <path d="M168 115q-5-60 37-74 74-24 122 47" stroke="#263c2b" stroke-width="17"/>
+  <path d="M173 106q1-47 37-59 66-19 108 36" stroke="#5d714b" stroke-width="4"/>
+  <rect x="152" y="112" width="30" height="52" rx="11" fill="#263d2d"/>
+  <path d="M162 125v25" stroke="#a8d270" stroke-width="4"/>
+  <path d="M169 160q-6 32 20 37" stroke-width="6"/>
+  <path d="m188 195 18 5" stroke="#7a8d5e" stroke-width="10"/>
+  <path d="m301 87 21-8 19 15-9 27-23-3z" fill="#1c3528"/>
+  <path d="m312 92 13-4 8 9-5 12-12-1z" fill="#b7ed73" stroke-width="2"/>
+ </g>
+ <!-- Chunky AI-powered sci-fi tool, never pointed at a person. -->
+ <g transform="translate(261 236) rotate(-14)" stroke="#09170e" stroke-width="4" stroke-linejoin="round">
+  <path d="M-64 6h27l15-16h94l15 13h62v31H80L61 48H1l-15-14h-45z" fill="#344e37"/>
+  <path d="M-17 35h35L7 76h-25l-12-11z" fill="#24362a"/>
+  <path d="M80 7h66v22H80z" fill="#14281d"/>
+  <path d="M94 9v19m17-19v19m17-19v19" stroke="#668451" stroke-width="3"/>
+  <path d="M147 6h14v26h-14z" fill="#b5ec76"/>
+  <path d="M-15 0h74v28h-74z" fill="#14281b"/>
+  <path d="m-5 19 7-13 7 13m-11-5h8m12-8v14" stroke="#bcf384" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M35 7h14m-14 6h18m-18 6h10" stroke="#779b54" stroke-width="2"/>
+  <path d="m31-10 5-11h32l6 12" fill="#253d2c"/>
+  <path d="m-48 13 12 10-12 2" stroke="#8fad68" stroke-width="3"/>
+ </g>
+ <!-- hand gripping the AI tool -->
+ <path d="M302 271q4-23 12-18l4 11q6-21 13-15l-1 18q9-16 15-8l-3 15q10-8 13-1-4 24-24 29-24 0-29-31z" fill="#75984e" stroke="#0b1710" stroke-width="4" stroke-linejoin="round"/>
+ <!-- Small autonomous drone. -->
+ <g stroke="#476244" stroke-width="2">
+  <path d="m98 91 18-15 36 3 14 20-18 18-36-4z" fill="#182d20"/>
+  <path d="m112 88 13-8 18 3 9 13-12 10-19-3z" fill="#aecf74"/>
+  <path d="m100 83-17-14m73 16 17-15m-63 40-18 18m64-15 17 14"/>
+  <ellipse cx="80" cy="66" rx="20" ry="4" fill="#314c33"/><ellipse cx="179" cy="66" rx="20" ry="4" fill="#314c33"/>
+  <ellipse cx="90" cy="130" rx="20" ry="4" fill="#314c33"/><ellipse cx="181" cy="130" rx="20" ry="4" fill="#314c33"/>
+  <circle cx="131" cy="93" r="5" fill="#1a3e22"/>
+ </g>
+ <g stroke="#a8d86a" stroke-width="2" opacity=".7"><path d="M58 175h10m-5-5v10m429-107h10m-5-5v10M465 37h8m-4-4v8"/><path d="M64 226h38m-38 7h24" stroke="#4e6e45"/></g>
+</svg>
